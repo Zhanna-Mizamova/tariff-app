@@ -1,0 +1,20 @@
+.tariff {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .tariff:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .highlight {
+    border: 2px solid #ff5722;
+    background-color: #ffe0b2;
+    color: #d84315;
+  }
+  
